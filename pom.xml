@@ -53,6 +53,8 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
+            <version>1.18.38</version>
+            <scope>provided</scope>
         </dependency>
 
         <!-- JJWT -->
@@ -97,6 +99,7 @@
                         <exclude>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
+                                 <release>17</release>
                         </exclude>
                     </excludes>
                 </configuration>
