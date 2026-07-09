@@ -99,7 +99,6 @@
                         <exclude>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
-                                 <release>17</release>
                         </exclude>
                     </excludes>
                 </configuration>
